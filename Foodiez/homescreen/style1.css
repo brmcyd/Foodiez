@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+img {
+    position: absolute;
+    width: 650px;
+    height: 745px;
+    left: 885px;
+    top: 0px;
+    margin: 0px;
+}
+
+.kuliner {
+    position: absolute;
+    width: 686px;
+    height: 338px;
+    left: 70px;
+    top: 100px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 77px;
+    line-height: 111.5%;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.025em;
+    text-transform: capitalize;
+    color: #470D21;
+}
+
+.masak {
+    position: absolute;
+    width: 280px;
+    height: 48px;
+    left: 70px;
+    top: 600px;
+    font-size: 20px;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    background: #D67D3E;
+}
+
+.resep {
+    position: absolute;
+    width: 640px;
+    height: 72px;
+    left: 70px;
+    top: 489px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 133.5%;
+    /* or 29px */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.025em;
+    color: #D67D3E;
+}
+
+.logo {
+    position: absolute;
+    width: 129px;
+    height: 40px;
+    left: 70px;
+    top: 40px;
+}
